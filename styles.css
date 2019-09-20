@@ -9,7 +9,7 @@
   padding:0;
 }
 .Logo {
-  margin-left: 40%;
+  margin-left: 42%;
   margin-top: 0%;
 }
 .Background {
@@ -30,7 +30,7 @@
     letter-spacing: 2px;
     text-align: center;
     color: #FFF;
-    margin-left: 17%;
+    margin-left: 19%;
     margin-bottom: 8%;
   
   }
@@ -41,7 +41,7 @@
   width: 525px;
   border-radius: 4px;
   background-color: #ff7500;
-  margin-left: 21%;
+  margin-left: 23%;
   margin-top: 5%;
   text-align: center;
 }
@@ -56,7 +56,7 @@
 } 
   .Logo{
     width: 15vh;
-    margin-top: 8%;
+    margin-top: 5%;
     margin-bottom: 8%;
 }
 .SponsoredBy{
@@ -72,7 +72,7 @@
 .Wordlogo{
 width: 25%;
 padding-top: 2%;
-margin-left: 36%;
+margin-left: 37%;
 margin-bottom: 6%;
 
 }
