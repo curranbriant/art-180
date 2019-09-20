@@ -24,12 +24,9 @@
 .Donation {
     width: 608px;
     height: 37px;
-    font-family: Montserrat-Bold;
+    font-family: Montserrat;
+    font-weight: 700;
     font-size: 35px;
-    font-weight: bold;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
     letter-spacing: 2px;
     text-align: center;
     color: #FFF;
@@ -37,28 +34,26 @@
     margin-bottom: 8%;
   
   }
+  
   .Rectangle {
   
-      width: 525px;
-      height: 145px;
-      border-radius: 4px;
-      background-color: #ff7500;
-    align-content: center;
-    justify-items: center;
-    margin-left: 21%;
-  }
-  .Price{
-      color: #FFFF;
-      padding-top: 0%;
-    font-family: Montserrat;
-    font-size: 52px;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
-    letter-spacing: 2px;
-    text-align: center;
-    text-decoration: none;
-  }
+  height: 145px;
+  width: 525px;
+  border-radius: 4px;
+  background-color: #ff7500;
+  margin-left: 21%;
+  margin-top: 5%;
+  text-align: center;
+}
+.Price{ 
+  color: #FFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 52px;
+  padding-top: 8%;
+  margin-left: 0%;
+  letter-spacing: 2px;
+  text-decoration: none;
+} 
   .Logo{
     width: 15vh;
     margin-top: 8%;
@@ -66,6 +61,7 @@
 }
 .SponsoredBy{
   color: #FFF;
+  font-family: Montserrat;
   margin-top: 50%;
   font-size: 20px;
   margin-left: 42%;
@@ -77,6 +73,8 @@
 width: 25%;
 padding-top: 2%;
 margin-left: 36%;
+margin-bottom: 6%;
+
 }
 .App {
   background: url('') no-repeat;
